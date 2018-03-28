@@ -1,0 +1,18 @@
+/*
+* Audrey Embley
+* 3/28/28
+*First CSS
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: FC6B6B; color: black;
+
+}
