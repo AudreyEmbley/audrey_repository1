@@ -1,0 +1,42 @@
+/*
+* Audrey Embley
+* 3/28/28
+*First CSS
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+h1 { 
+font-size: 174%; 
+text-align: center; 
+text-transform: uppercase; 
+text-decoration: underline;
+background-color: DarkCyan;
+}
+
+h3 {
+font-size: 130%;
+}
+
+p {
+color: rgb(102,214,95);
+background-color: white
+}
+
+body { 
+background-color: #FC6B6B; 
+color: black; 
+font-size: 130%;
+font-family: Arial;
+}
+
+img {
+float: left
+}
