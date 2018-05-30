@@ -1,0 +1,49 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+margin: 0;
+padding: 10px;
+}
+
+
+h1 {
+border: dashed;
+padding-top: 12px;
+padding-right: 16px;
+padding-bottom: 12px;
+padding-left: 16px;
+height: 40px;
+width: 425px;
+}
+
+p {
+border-style: dashed;
+padding-top: 12px; 
+padding-right: 16px; 
+padding-bottom: 12px; 
+padding-left: 16px;
+width: 425px;
+height: 40px;
+}
+
+main {
+border: 3px solid black;
+padding-top: 15px;
+margin-left: 25px;
+height: 150px;
+width: 500px;
+}
+
+body {
+border: 4px dashed;
+padding-top: 15px;
+height: 200px;
+width: 600px;
+}
